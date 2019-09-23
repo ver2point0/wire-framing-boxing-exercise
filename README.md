@@ -1,6 +1,6 @@
 # Wire Framing/Boxing Exercise
 
-With a partner, grab a piece of paper or use Google Slides and Wire Frame / Box the following web pages.
+In groups of 3 or 4, grab a piece of paper, whiteboard, or use Google Slides and Wire Frame / Box the following web pages.
 
 __Boxing example:__
 Every single box will be a __tag__ within your HTML `<body>` __element__.
