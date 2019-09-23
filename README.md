@@ -2,6 +2,11 @@
 
 With a partner, grab a piece of paper or use Google Slides and Wire Frame / Box the following web pages.
 
+__Boxing example:__
+Every single box will be a __tag__ within your HTML `<body>` __element__.
+
+![Boxing Examples](https://github.com/julietplatoon/curriculum/blob/master/week-05/images/boxing.png)
+
 __Include the type of element each box will be. (`<h1>, <p>, <button>, <input>, <div>, <span>`)__
 
 __[This Week In Startups](https://thisweekinstartups.com/)__
